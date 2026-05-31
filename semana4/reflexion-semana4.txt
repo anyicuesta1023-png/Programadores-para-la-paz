@@ -1,0 +1,16 @@
+Es fundamental que las comunidades y las iniciativas 
+ciudadanas construyan sus propias herramientas tecnológicas 
+porque esto les permite recuperar la soberanía sobre sus 
+procesos y datos, al utilizar tecnologías abiertas como Node.js, 
+las personas dejan de ser meros consumidores pasivos de software 
+privativo y se convierten en creadores capaces de adaptar las soluciones
+a sus necesidades reales y contextos locales. Este tipo de desarrollo 
+fomenta la autonomía, ya que las comunidades no dependen de decisiones 
+corporativas externas que a menudo no consideran sus particularidades 
+sociales o culturales, además, el uso de herramientas de código abierto 
+democratiza el conocimiento, permitiendo que otros ciudadanos aprendan, 
+colaboren y mejoren las soluciones existentes de manera colectiva, 
+en última instancia, la tecnología abierta es una herramienta de 
+empoderamiento que fortalece el tejido social, promoviendo la transparencia 
+y garantizando que la innovación tecnológica esté al servicio del bien común 
+y no solo del beneficio económico privado.
