@@ -1,0 +1,12 @@
+Las Apis son el puente fundamental para que las comunidades
+se comuniquen digitalmente de forma estructurada,al permitir 
+que diferentes aplicaciones envíen y reciban datos automáticamente,
+las APIS facilitan la creación de sistemas de alertas tempranas o 
+mapas colaborativos en tiempo real, por ejemplo, una comunidad podría 
+conectar sensores o reportes ciudadanos directamente a un sistema 
+central que procese la información y avise a las autoridades o a los vecinos.
+esto elimina la necesidad de procesos manuales lentos, permitiendo que la información 
+fluya desde la fuente hasta quien la necesita, así, la tecnología deja de ser 
+un fin y se convierte en un medio para la organización ciudadana, garantizando 
+que los datos sean legibles,ordenados y útiles para la toma de decisiones colectivas 
+basadas en evidencia real.

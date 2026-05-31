@@ -1,0 +1,18 @@
+Esta ruta (app.post('/reporte')) define un punto de acceso endpoint 
+que acepta solicitudes de tipo POST, a diferencia de las rutas GET, 
+esta no está diseñada para consultar información, sino para recibirla,
+cuando el servidor recibe una petición, toma el objeto mensaje enviado 
+en el cuerpo body de la petición y lo procesa, respondiendo de vuelta 
+con un objeto JSON que confirma el estado Reporte recibido y devuelve 
+el mensaje enviado para verificar que los datos llegaron correctamente.
+
+En una aplicación comunitaria, esta ruta sería fundamental para la 
+recolección de información en tiempo real, por ejemplo, podría utilizarse para:
+Reporte de alertas ciudadanas: Permitir que los vecinos envíen reportes sobre 
+problemas en el barrio, como fallas en el alumbrado público, acumulación 
+de basuras o reportes de seguridad.
+Formularios de contacto o sugerencias: Recibir opiniones o ideas de los 
+miembros de la comunidad directamente desde una interfaz web.
+Registro de actividades: Permitir que los líderes comunitarios registren 
+la asistencia o el éxito de eventos realizados, enviando los datos de 
+forma estructurada para su posterior análisis.

@@ -1,0 +1,9 @@
+http://localhost:3000 - Respuesta: Al acceder a la ruta raíz , el servidor responde enviando 
+el texto Servidor activo, que se visualiza directamente en el navegador.
+
+http://localhost:3000/saludo - Respuesta: Al acceder a la ruta el servidor ejecuta
+ la función correspondiente y responde enviando el texto Hola comunidad.
+
+http://localhost:3000/mensaje/juan - Respuesta: Al acceder a la ruta en el cual
+juan es el valor del parámetro, el servidor captura el nombre enviado en la URL y responde 
+personalizando el saludo como Hola juan.
