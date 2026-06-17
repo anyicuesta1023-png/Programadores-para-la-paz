@@ -1,0 +1,13 @@
+Al enviar una petición POST a la dirección http://localhost:3000/registro con el JSON sugerido, 
+el servidor Express procesa la información gracias al middleware express.json() y extrae los campos utilizando req.body.
+
+La respuesta que devuelve el servidor es un objeto en formato JSON con un código de estado HTTP 200 OK, 
+cuyo contenido es el siguiente:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto confirma que el backend capturó los datos enviados por el cliente de forma exitosa y estructurada.
