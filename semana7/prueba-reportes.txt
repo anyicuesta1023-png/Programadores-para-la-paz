@@ -1,0 +1,8 @@
+Al realizar una petición de tipo GET a la ruta http://localhost:3000/reportes después de haber
+enviado un reporte mediante el método POST, el servidor responde con un estado 200 OK y devuelve
+un arreglo array en formato JSON que contiene el objeto del reporte previamente guardado. 
+
+El objeto devuelto incluye de forma automática un id dinámico generado por el servidor en este
+caso, id: 1, junto con las propiedades tipo y descripcion que fueron enviadas en el cuerpo de
+la petición POST, Si el servidor se apaga y se vuelve a encender, esta lista vuelve a aparecer 
+vacía debido a que los datos residen únicamente en la memoria Ram volátil del proceso de Node.js

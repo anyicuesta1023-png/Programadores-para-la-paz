@@ -1,0 +1,10 @@
+La implementación de plataformas tecnológicas para el registro y consulta de incidencias 
+comunitarias es fundamental en la sociedad actual porque centraliza las necesidades 
+ciudadanas en un solo lugar accesible, en primer lugar, este tipo de herramientas democratiza
+la participación, permitiendo que cualquier vecino pueda reportar un problema en tiempo real
+sin burocracia excesiva, en segundo lugar, aporta transparencia y rendición de cuentas, 
+ya que la comunidad puede auditar visualmente qué problemas existen y cuáles están siendo 
+atendidos por las autoridades locales, adicionalmente, el uso de APIs y bases de datos 
+permite recolectar estadísticas valiosas para priorizar los recursos del sector público 
+en las zonas más críticas, y por último reduce los tiempos de respuesta y fomenta una ciudadanía
+activa, conectada y corresponsable del bienestar de su propio entorno urbano.
