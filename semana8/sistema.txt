@@ -1,0 +1,16 @@
+Explicación de los comandos en sistemas Linux:
+
+1. uname -a: Muestra información detallada del sistema operativo y del hardware del 
+servidor, incluyendo el nombre del kernel de Linux, el hostname de la máquina, la 
+versión del kernel, la fecha de compilación y la arquitectura del procesador como x86_64.
+
+2. whoami: Muestra el nombre del usuario que tiene la sesión activa actualmente en la
+terminal.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+Es vital porque permite al administrador saber si está operando con privilegios
+elevados usuario root o como un usuario común, previniendo modificaciones destructivas
+por error, además, conocer la arquitectura y versión exacta del sistema operativo es 
+indispensable para descargar los paquetes de software correctos, instalar parches de 
+seguridad específicos y asegurar la compatibilidad de los servicios web que se van a 
+desplegar.

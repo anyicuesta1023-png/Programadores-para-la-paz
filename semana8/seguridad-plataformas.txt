@@ -1,0 +1,14 @@
+1. No exponer datos personales: Ocultar las identidades o proteger la información e identidades
+de los miembros de la comunidad.
+
+2. Proteger credenciales: Implementar de manera obligatoria la autenticación de doble
+factor 2FA para roles administrativos.
+
+3. Usar conexiones seguras: Configurar certificados SSL/TLS para forzar el uso de 
+conexiones cifradas HTTPS.
+
+4. Registrar accesos: Mantener registros de auditoría activos para monitorear qué usuarios
+realizan cambios críticos en el sistema.
+
+5. Limitar acceso a información sensible: Aplicar el principio de menor privilegio, 
+restringiendo el acceso técnico solo a lo estrictamente necesario según el rol.

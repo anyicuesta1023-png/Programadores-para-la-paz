@@ -1,0 +1,10 @@
+La seguridad digital en plataformas tecnológicas comunitarias o participativas 
+es un pilar ético y operativo fundamental, ya que estas herramientas suelen albergar
+datos sensibles de ciudadanos, activistas o comunidades organizadar, proteger estos entornos 
+garantiza el derecho a la privacidad y previene ataques maliciosos, censura o la filtración 
+de información que podría poner en riesgo la integridad de los participantes, además, la 
+seguridad fomenta un clima de confianza digital, si los usuarios perciben que una plataforma
+es vulnerable, abandonarán los procesos participativos por temor a que sus datos sean expuestos, 
+por lo tanto, la ciberseguridad no debe verse únicamente como un requerimiento técnico o informático
+aislado, sino como una práctica de cuidado colectivo y una responsabilidad social compartida que 
+sostiene la continuidad y legitimidad de cualquier proyecto tecnológico con impacto social.
