@@ -1,0 +1,9 @@
+Las plataformas tecnológicas que apoyan a las comunidades deben funcionar de manera estable
+y segura porque la continuidad de sus servicios afecta directamente la confianza de los usuarios
+si un servidor se cae constantemente o es vulnerable a ataques, se interrumpe la comunicación,
+la gestión de recursos o el acceso a información clave del colectivo, la estabilidad garantiza 
+que las herramientas estén disponibles en momentos críticos, mientras que la seguridad protege 
+los datos privados de los miembros de la comunidad frente a accesos malintencionados un entorno
+de servidor bien configurado, con monitoreo y logs, permite reaccionar rápido ante fallas, 
+asegurando que la tecnología sea un pilar de apoyo confiable y no una fuente de frustración o 
+riesgos para la organización social.
