@@ -1,0 +1,13 @@
+-ALTA PRIORIDAD-
+1. Como ciudadano, quiero registrar un reporte o incidencia de manera anónima para dejar evidencia
+en el sistema sin arriesgar mi seguridad.
+
+-MEDIA PRIORIDAD-
+2. Como miembro del equipo de veeduría, quiero consultar el listado de reportes en un tablero para
+asignar tareas de revisión y hacer seguimiento.
+3. Como coordinador comunitario, quiero recibir una notificación en Telegram cada vez que se 
+registre un nuevo reporte para iniciar la validación.
+
+-BAJA PRIORIDAD-
+4. Como ciudadano, quiero ver un gráfico público con el estado de las incidencias pendientes, en
+revisión, resueltas para verificar la transparencia del proceso.

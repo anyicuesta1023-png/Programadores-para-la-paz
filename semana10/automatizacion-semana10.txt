@@ -1,0 +1,14 @@
+1. ¿Qué evento activa el flujo?
+El eventoWebhook o Trigger de la base de datos que se ejecuta automáticamente cuando un ciudadano 
+envía un nuevo reporte a través del formulario del sistema.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+"¡Alerta de Veeduría! Se ha registrado un nuevo reporte comunitario en el sistema. 
+ID del caso: #1024. Estado: Pendiente de revisión. Por favor, asigne un moderador para su 
+verificación en el panel de control."
+
+3. ¿Qué información NO debería enviarse por seguridad?
+Por estrictas razones de seguridad y privacidad, nunca enviarán: nombres completos de los 
+denunciantes, números de documentos de identidad cédulas, números telefónicos, direcciones 
+exactas de residencia, contraseñas, ni archivos adjuntos que expongan rostros o datos biométricos 
+de las personas involucradas.

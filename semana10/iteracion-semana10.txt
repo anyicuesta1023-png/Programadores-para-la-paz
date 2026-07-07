@@ -1,0 +1,15 @@
+
+1. ¿Qué 2 tareas del backlog harías primero?
+-  El registro de reportes o incidencias por parte del ciudadano.
+-  El tablero de consulta para el equipo de veeduría.
+
+2. ¿Por qué son las más importantes?
+Porque constituyen el núcleo de la solución el Producto Mínimo Viable sin un mecanismo para 
+capturar la evidencia y un lugar para que el equipo la lea, la veeduría no puede operar,las 
+automatizaciones y estadísticas públicas son secundarias y dependen de que esto funcione primero.
+
+3. Definición de Terminado :
+Para que una tarea se considere completamente finalizada, debe cumplir con:
+- Criterio 1: El código de la funcionalidad corre localmente sin errores en la consola.
+- Criterio 2: Fue probada con datos de prueba simulados por al menos dos miembros del equipo.
+- Criterio 3: El código está limpio, documentado internamente y subido exitosamente al repositorio de Git.

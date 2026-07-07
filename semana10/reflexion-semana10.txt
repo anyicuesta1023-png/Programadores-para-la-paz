@@ -1,0 +1,11 @@
+Las metodologías ágiles, la automatización y canales como Telegram son fundamentales para 
+organizar procesos de participación ciudadana porque transforman el caos de las demandas sociales
+flujos de trabajo ordenados, visibles y medibles, el uso de un backlog e iteraciones evita que los
+equipos comunitarios muchas veces compuestos por voluntarios se saturen con el volumen de datos,
+permitiéndoles enfocarse en metas cortas y entregar victorias tempranas que mantengan motivada a 
+la comunidad, por su parte, herramientas como n8n eliminan el desgaste de la gestión manual 
+repetitiva, optimizando el tiempo de los líderes para que realicen análisis críticos en el 
+territorio en lugar de tareas administrativas, además, al integrar telegram como un canal 
+transparente de notificaciones no sensibles, se democratiza el acceso a la información y se 
+genera trazabilidad, lo que incrementa la confianza ciudadana en la veeduría y asegura que los 
+procesos no queden en el olvido por falta de seguimiento.

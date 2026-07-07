@@ -1,0 +1,21 @@
+Entidad: Causa
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- titulo (Texto, Obligatorio)
+- descripcion (Texto, Obligatorio)
+- categoria (Texto, Ej. Medio ambiente, Infraestructura)
+- fecha_creacion (Fecha/Hora, Automática)
+- estado (Texto, Ej. Activa, En Revisión, Completada)
+
+Propósito:
+Almacenar de forma estructurada las iniciativas, proyectos o problemáticas sociales propuestas por la comunidad para permitir su visualización y auditoría pública.
+
+Entidad: Apoyo
+Campos principales:
+- id (Entero, Clave Primaria, Autoincremental)
+- causa_id (Entero, Clave Foránea que conecta con Causa)
+- usuario_id_anonimo (Texto/Hash único para validar que no se duplique el voto)
+- fecha_apoyo (Fecha/Hora, Automática)
+
+Propósito:
+Registrar de manera cuantitativa las muestras de respaldo ciudadano que recibe cada causa, facilitando la priorización comunitaria de las tareas sin almacenar datos sensibles de los votantes.

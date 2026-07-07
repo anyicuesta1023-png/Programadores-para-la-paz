@@ -1,0 +1,9 @@
+Una plataforma tecnológica orientada a la participación ciudadana requiere obligatoriamente de una base de datos,
+autenticación y mecanismos de protección de información para garantizar su viabilidad institucional y técnica, 
+la base de datos es el pilar de la persistencia y la memoria histórica, sin ella, las evidencias y solicitudes 
+comunitarias se dispersarían en la volatilidad de los canales de chat, por su parte, la autenticación introduce 
+orden democrático y responsabilidad operativa, asegurando que las modificaciones críticas en los registros solo 
+provengan de roles debidamente validados por el equipo,finalmente, la protección estricta de la información no 
+es un lujo técnico, sino un deber ético fundamental, enn contextos de veeduría social, la seguridad digital 
+mitiga el riesgo de filtraciones que vulneren la privacidad o seguridad física de los denunciantes, blindando 
+la confianza comunitaria en el software y consolidando la transparencia de los procesos de control social.

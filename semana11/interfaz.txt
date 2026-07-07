@@ -1,0 +1,9 @@
+La interfaz web contaría con una barra superior que incluye un formulario sencillo para crear una causa 
+comunitaria, solicitando únicamente un título explicativo, una descripción del problema y la fecha del informe.
+
+Debajo de esta sección, se presentará una vista organizada con todas las causas disponibles en tarjetas o filas 
+independientes para que la comunidad pueda leerlas fácilmente.
+
+Cada causa mostrada incluye de manera visible un contador de apoyos numéricos y un botón interactivo para 
+Apoyar Causa, el cual aumentará el contador en tiempo real. Toda la interfaz se mantendrá limpia, 
+intuitiva y libre de datos personales visibles para cuidar la privacidad de los usuarios.

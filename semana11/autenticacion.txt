@@ -1,0 +1,9 @@
+El inicio de sesión funciona como una llave digital que identifica a los integrantes del equipo antes de 
+permitirles modificar el sistema o gestionar informes.
+
+Es fundamental proteger ciertas rutas dentro de la aplicación porque manejan información interna del grupo o 
+acciones críticas, como borrar o editar registros, que no deben estar al alcance de cualquier visitante web.
+
+Para mantener la plataforma segura, bajo ninguna circunstancia se debe mostrar públicamente información 
+confidencial como claves de acceso, números de cédula, correos electrónicos, datos de contacto ni ningún 
+tipo de credencial técnica o API token que comprometa el proyecto.
