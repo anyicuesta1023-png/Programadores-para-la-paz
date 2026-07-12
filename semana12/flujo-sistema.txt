@@ -1,0 +1,15 @@
+1. Creación de la Causa: Un líder comunitario o ciudadano ingresa a la plataforma y registra una nueva causa 
+social o petición completando un formulario con título y descripción.
+
+2. Almacenamiento en Base de Datos: La plataforma recibe los datos del formulario de la causa a través 
+del backend y los guarda de forma segura en la base de datos.
+
+3. Recolección de Apoyos: Los miembros de la comunidad ingresan a la plataforma, visualizan la causa activa y 
+registran su apoyo haciendo un clic.
+
+4. Conteo e Incremento: El sistema actualiza en tiempo real la base de datos vinculando cada nuevo apoyo a la 
+causa correspondiente e incrementando el contador.
+
+5. Generación Automática del PDF: Una vez alcanzado el objetivo o finalizado el plazo, el sistema compila la 
+información de la causa junto con el número total de apoyos y genera automáticamente un documento formal en 
+formato PDF listo para ser descargado y presentado ante las autoridades.

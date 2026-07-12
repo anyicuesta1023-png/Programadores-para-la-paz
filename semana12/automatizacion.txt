@@ -1,0 +1,10 @@
+Evento que activa la automatización:
+- El registro exitoso de un nuevo apoyo voto en una causa comunitaria existente.
+
+Mensaje automatizado que se envía al canal/chat de Telegram:
+- "¡Nuevo apoyo registrado! La causa '[Título de la Causa]' acaba de recibir un respaldo formal de la comunidad. ¡Súmate tú también!"
+
+Información confidencial que NO debe enviarse por motivos de seguridad y privacidad:
+- Nombres completos de los firmantes, números de identificación (cédulas/DNI), números telefónicos, 
+correos electrónicos, direcciones residenciales o comentarios privados con opiniones políticas o sensibles. 
+-El mensaje debe ser netamente informativo y numérico/público.

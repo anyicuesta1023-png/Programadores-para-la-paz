@@ -1,0 +1,12 @@
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer la participación ciudadana y la 
+organización comunitaria?
+Respuesta:Durante este curso comprendí que la tecnología es un puente fundamental para democratizar la participación 
+ciudadana y fortalecer el tejido social de las comunidades, aprendí que herramientas técnicas como los sistemas 
+de bases de datos, los servicios backend y las automatizaciones no son exclusivas del entorno empresarial, sino 
+que pueden aplicarse para resolver problemáticas locales de manera organizada, la capacidad de estructurar 
+flujos automatizados de comunicación y generación de documentos formales permite que los procesos comunitarios 
+ganen legitimidad, agilidad y un alcance mucho mayor ante las instituciones del Estado, sin embargo, el 
+aprendizaje más valioso ha sido entender la enorme responsabilidad ética que conlleva desarrollar este software,
+donde la minimización de datos personales y la seguridad de la información son críticas para proteger la 
+integridad de los ciudadanos. En conclusión, la tecnología bien orientada es un motor de empoderamiento que 
+transforma peticiones informales en acciones colectivas organizadas, transparentes y de alto impacto social.

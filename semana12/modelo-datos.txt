@@ -1,0 +1,20 @@
+Entidad: Causa
+- id (Clave Primaria, Autoincremental)
+- titulo (Texto)
+- descripcion (Texto largo)
+- fecha (Fecha de creación)
+
+Explicación: Esta entidad sirve para registrar y almacenar la información principal de cada una de las 
+iniciativas o peticiones que se crean en la plataforma, permite identificar de manera única cada problema o 
+propuesta de la comunidad.
+
+
+Entidad: Apoyo
+- id (Clave Primaria, Autoincremental)
+- causa_id (Clave Foránea, conecta con Causa.id)
+- nombre (Texto / Opcional o Anónimo)
+- fecha (Fecha del apoyo)
+
+Explicación: Esta entidad sirve para registrar cada respaldo individual que recibe una causa específica, al 
+utilizar la clave foránea causa_id, el sistema sabe exactamente a qué petición corresponde el voto o apoyo, 
+permitiendo realizar la sumatoria formal sin almacenar datos sensibles.
